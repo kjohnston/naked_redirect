@@ -1,4 +1,4 @@
-# naked-redirect
+# naked_redirect
 
 ## Description
 
